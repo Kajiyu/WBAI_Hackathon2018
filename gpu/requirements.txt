@@ -1,0 +1,17 @@
+numpy==1.14.5
+scikit-learn
+scikit-image
+flask
+flask-cors
+pygame
+pyglet
+opencv-python
+opencv-contrib-python
+pybind11
+BriCA2
+# oculoenv==0.1.3
+tensorflow
+# chainer
+torch==0.4.1
+torchvision
+gym
